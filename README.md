@@ -1,7 +1,8 @@
 # Bookstore
 
+Projeto Final do módulo Angular do Bootcamp Santander da DIO.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2, but it was updated to version 15.2.0
-Projeto Final do mósulo Angular do Bootcamo Santander da DIO
 
 ## Development server
 
